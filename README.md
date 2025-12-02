@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Desenvolvedor Frontend Júnior | Apaixonado por UI/UX e Web Performance
+### Desenvolvedor Frontend Júnior | Apaixonado por Tecnologia e o mundo do Desenvolvimento de aplicações.
 
 Sou um desenvolvedor em início de carreira, focado em criar experiências web responsivas e acessíveis. Atualmente estou aprofundando meus conhecimentos no ecossistema **React** e estudando **TypeScript**.
 
