@@ -54,9 +54,6 @@ Aqui estão alguns projetos que desenvolvi para praticar:
 
 ---
 
-### 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joaooncode&show_icons=true&theme=dracula&hide_border=true)
-
 ---
 
 ### 📫 Contato
