@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, eu sou o [Seu Nome]! 👋
 ### Desenvolvedor Frontend Júnior | Apaixonado por UI/UX e Web Performance
 
 Sou um desenvolvedor em início de carreira, focado em criar experiências web responsivas e acessíveis. Atualmente estou aprofundando meus conhecimentos no ecossistema **React** e estudando **TypeScript**.
