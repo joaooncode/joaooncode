@@ -50,7 +50,7 @@ Aqui estão alguns projetos que desenvolvi para praticar:
 | :--- | :--- | :--- |
 | **[TrakcIt](https://github.com/joaooncode/TrackIt)** |Backend Laravel para um sistema de inventário. | Laravel 12 |  Laravel Breeze | Docker | PostgresSQL
 | **[Cadastro de Ativos - Senac-RS Santa Cruz do Sul](https://github.com/joaooncode/cadastro-ativos-senac)** | Projeto do curso Técnico em Informática Senac-RS Santa Cruz do Sul  | PHP | Ajax | Bootstrap 5
-| **[Biblioteca Senac](https://github.com/joaooncode/biblioteca-senac)** | Gerenciamento de Livros, Autores | Django | Python | Bootstrap | Sqlite
+| **[Gerador de QRCode](https://github.com/joaooncode/qrcode_generator)** | API REST para gerar QRCodes. |  Java | Springboot | AWS S3 | Docker
 
 ---
 
